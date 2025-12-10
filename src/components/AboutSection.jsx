@@ -27,6 +27,12 @@ export const AboutSection = () => {
                             ease: "easeInOut",
                         }}
                         >
+                        {/* <motion.img
+                            src="/img/talk.jpg"
+                            alt="Eliza working on web design"
+                            className="w-64 md:w-80 lg:w-96 rounded-2xl shadow-lg"
+                            transition={{ type: "spring", stiffness: 100 }}
+                        /> */}
                         <motion.img
                             src="/img/talk.jpg"
                             alt="Eliza working on web design"
