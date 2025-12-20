@@ -8,15 +8,9 @@ export const AboutSection = () => {
                 About <span className="text-primary"> Me</span>
             </h2>
 
-            <div className="grid grid-cols-2 md:grid-cols-2 gap-12 items-center">
+            {/* <div className="grid grid-cols-2 md:grid-cols-2 gap-12 items-center"> */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                 <div>
-                    {/* <motion.img
-                        src="/img/rob.gif"
-                        alt="Web Designer"
-                        animate={{ y: [0, -10, 0] }}
-                        transition={{ repeat: Infinity, duration: 2 }}
-                        className="w-80"
-                    /> */}
                     <motion.div
                         className="flex justify-center"
                         initial={{ y: 0 }}
@@ -27,12 +21,6 @@ export const AboutSection = () => {
                             ease: "easeInOut",
                         }}
                         >
-                        {/* <motion.img
-                            src="/img/talk.jpg"
-                            alt="Eliza working on web design"
-                            className="w-64 md:w-80 lg:w-96 rounded-2xl shadow-lg"
-                            transition={{ type: "spring", stiffness: 100 }}
-                        /> */}
                         <motion.img
                             src="/img/talk.jpg"
                             alt="Eliza working on web design"
@@ -46,12 +34,16 @@ export const AboutSection = () => {
                         {/* Who I Am */}
                     </h3>
                     <p className="text-lg text-muted-foreground">
-                        A self-taught web developer and designer with a strong passion for building modern and responsive websites.
-                        I specialize in creating clean, user-friendly designs that focus on functionality and great user experience.
+                        Detail-oriented and reliable professional with experience in administrative support, data management, and digital tools. 
+                        Highly organized and efficient, with a strong ability to manage tasks, maintain accurate records, and streamline 
+                        workflows in fast-paced environments.
+
                     </p>
                     <p className="text-lg text-muted-foreground">
-                        I’ve learned through hands-on projects, online resources, and continuous practice — exploring everything from HTML, CSS, JavaScript, and PHP to modern frameworks like React and Tailwind CSS.
-                        Even though I’m still learning, I’m always eager to expand my skills, stay updated with new technologies, and apply what I learn to real-world projects.
+                        With a strong interest in technology, I have hands-on experience using HTML, CSS, JavaScript, and PHP, as well as modern 
+                        tools and frameworks like React and Tailwind CSS. I am adaptable, quick to learn, and comfortable working with both 
+                        technical and non-technical tasks. I enjoy solving problems, supporting business operations, and continuously improving 
+                        my skills to deliver high-quality results.
                     </p>
                     {/* <p className="text-lg text-muted-foreground">
                         I believe that great design is not just about making things look good but also about solving problems and enhancing usability. I enjoy collaborating with clients to understand their vision and translate it into a digital experience that resonates with their audience.
