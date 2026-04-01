@@ -29,8 +29,7 @@ export const HeroSection = () => {
               <br /> Aspiring Virtual Assistant | Data Analysis • AI Ads • Canva Design • Website Development
             </p>
 
-            <p className="text-lg text-muted-foreground max-w-md mx-auto md:mx-0">
-                Aspiring Virtual Assistant skilled in Data Analysis, AI Ads, Canva Design, and Website Development. 
+            <p className="text-lg text-muted-foreground max-w-md mx-auto md:mx-0"> 
                 I help businesses stay organized, make data-driven decisions, and create engaging online content. With a 
                 mix of creativity, technical skills, and problem-solving, I deliver solutions that improve workflows and 
                 grow your digital presence.
