@@ -7,7 +7,7 @@ import codeigniterLogo from "/img/codeigniter.png";
 import bootstrapLogo from "/img/bootstrap.png";
 import mysqlLogo from "/img/mysql.png";
 import canvaLogo from "/img/canva.png";
-import microsoftLogo from "/img/microsoft.png";
+import microsoftLogo from "/img/Microsoft.png";
 
 export const Skills = () => {
   const languages = [
