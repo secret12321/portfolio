@@ -34,16 +34,14 @@ export const AboutSection = () => {
                         {/* Who I Am */}
                     </h3>
                     <p className="text-lg text-muted-foreground">
-                        Detail-oriented and reliable professional with experience in administrative support, data management, and digital tools. 
-                        Highly organized and efficient, with a strong ability to manage tasks, maintain accurate records, and streamline 
-                        workflows in fast-paced environments.
+                        I’m <span className="text-primary"><b>Eliza Dizon</b></span>, a detail-oriented aspiring Virtual Assistant skilled in <b>Data Analysis, AI Ads, 
+                        Canva Design, and Website Development</b>. <br/><br/> I help businesses stay organized, create engaging content, 
+                        and improve workflows. With a mix of creativity, technical skills, and a proactive mindset, I deliver 
+                        reliable support.
 
                     </p>
                     <p className="text-lg text-muted-foreground">
-                        With a strong interest in technology, I have hands-on experience using HTML, CSS, JavaScript, and PHP, as well as modern 
-                        tools and frameworks like React and Tailwind CSS. I am adaptable, quick to learn, and comfortable working with both 
-                        technical and non-technical tasks. I enjoy solving problems, supporting business operations, and continuously improving 
-                        my skills to deliver high-quality results.
+                        <b>Let’s collaborate to make your business more efficient, organized, and impactful.</b>
                     </p>
                     {/* <p className="text-lg text-muted-foreground">
                         I believe that great design is not just about making things look good but also about solving problems and enhancing usability. I enjoy collaborating with clients to understand their vision and translate it into a digital experience that resonates with their audience.

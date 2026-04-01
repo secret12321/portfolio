@@ -26,23 +26,27 @@ export const HeroSection = () => {
 
             <p className="text-xl font-semibold">
               I'm <span className="text-primary">Eliza Dizon</span>,
-              <br /> Aspiring Web Designer & Developer.
+              <br /> Aspiring Virtual Assistant | Data Analysis • AI Ads • Canva Design • Website Development
             </p>
 
             <p className="text-lg text-muted-foreground max-w-md mx-auto md:mx-0">
-              I design and build clean, modern, and responsive websites that
-              focus on simplicity and user experience.
+                Aspiring Virtual Assistant skilled in Data Analysis, AI Ads, Canva Design, and Website Development. 
+                I help businesses stay organized, make data-driven decisions, and create engaging online content. With a 
+                mix of creativity, technical skills, and problem-solving, I deliver solutions that improve workflows and 
+                grow your digital presence.
             </p>
 
             {/* <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start pt-4"> */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start items-center md:items-start pt-4">
               {/* Download CV */}
               <a
-                href="#projects"
+                href="/public/eliza_dizon_resume_IT.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="cosmic-button inline-flex items-center gap-2 mt-2 px-6 py-3 border border-primary rounded-md hover:bg-primary/10 transition duration-300"
               >
                 <File className="h-5 w-5" />
-                Download CV
+                View Resume
               </a>
 
               {/* Get in Touch */}

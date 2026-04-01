@@ -3,13 +3,11 @@ import htmlLogo from "/img/html.png";
 import cssLogo from "/img/css.png";
 import phpLogo from "/img/php.png";
 import jsLogo from "/img/js.png";
-import reactLogo from "/img/react.png";
-import tailwindLogo from "/img/tailwind.png";
 import codeigniterLogo from "/img/codeigniter.png";
 import bootstrapLogo from "/img/bootstrap.png";
 import mysqlLogo from "/img/mysql.png";
-import figmaLogo from "/img/figma.png";
-import wordpressLogo from "/img/wordpress.png";
+import canvaLogo from "/img/canva.png";
+import microsoftLogo from "/img/microsoft.png";
 
 export const Skills = () => {
   const languages = [
@@ -17,13 +15,11 @@ export const Skills = () => {
     { name: "CSS", logo: cssLogo },
     { name: "PHP", logo: phpLogo },
     { name: "JavaScript", logo: jsLogo },
-    { name: "React", logo: reactLogo },
-    { name: "Tailwind", logo: tailwindLogo },
     { name: "CodeIgniter", logo: codeigniterLogo },
     { name: "Bootstrap", logo: bootstrapLogo },
     { name: "MySQL", logo: mysqlLogo },
-    { name: "Figma", logo: figmaLogo },
-    { name: "WordPress", logo: wordpressLogo },
+    { name: "Canva", logo: canvaLogo },
+    { name: "Office 365", logo: microsoftLogo },
   ];
 
   return (
