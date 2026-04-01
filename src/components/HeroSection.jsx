@@ -40,7 +40,7 @@ export const HeroSection = () => {
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start items-center md:items-start pt-4">
               {/* Download CV */}
               <a
-                href="/public/eliza_dizon_resume_IT.pdf"
+                href="/eliza_dizon_resume_IT.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="cosmic-button inline-flex items-center gap-2 mt-2 px-6 py-3 border border-primary rounded-md hover:bg-primary/10 transition duration-300"
