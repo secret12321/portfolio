@@ -26,7 +26,7 @@ export const Contact = () => {
             >
               <div className="w-36 h-36 sm:w-44 sm:h-44 md:w-64 md:h-64 rounded-full border-4 border-white overflow-hidden shadow-lg">
                 <img
-                  src="/Public/img/Laptop.png"
+                  src="/img/Laptop.png"
                   alt="Eliza"
                   className="w-full h-full object-cover"
                 />
