@@ -71,7 +71,7 @@ export const Contact = () => {
                     rel="noopener noreferrer"
                     className="text-sm sm:text-base hover:underline"
                   >
-                    eli.flakes
+                    Eli Dizon
                   </a>
                 </div>
 
